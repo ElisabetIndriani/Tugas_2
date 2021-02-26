@@ -1,3 +1,4 @@
+
 nama=["Farhan" , "Johan"]
 nomor=["08123456789", "08987654321"]
 p=len(nama)
@@ -18,7 +19,7 @@ if a==1 :
     for x in range(p):
         print ("Nama: ", nama[x])
         print ("No Telepon: ", nomor[x])
-   
+
 elif a==2 :
     x= input("Nama= ")
     nama.append(x)
